@@ -5,7 +5,6 @@ body {
       }
 
 nav{ 
-    margin-top: 1rem;
     margin-bottom: 1rem;
     width: 100%;
     display: flex;
@@ -92,7 +91,7 @@ nav{
 
 .container {
   margin: 50px 0 0 200px;
-  width: 70%;
+  width: 79%;
   height: 450px;
   display: flex;
   justify-content: center;
@@ -113,7 +112,8 @@ nav{
 }
 
 .knihy-uvod {
-  margin: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
   text-align: center;
   color: white;
   justify-content: center;
@@ -133,4 +133,24 @@ nav{
   font-size: 1rem;
   margin-bottom: 2rem;
 
+}
+
+#footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 500px;
+  height: 60px;
+  justify-content: center;
+  font: 1rem Jaro;
+  background-color:  rgb(24, 23, 23);
+  font-size: 2rem;
+}
+
+#footer a {
+  font: 2rem Jaro;
+}
+
+#footer a:hover {
+  color: white;
 }

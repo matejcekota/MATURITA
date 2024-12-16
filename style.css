@@ -154,3 +154,28 @@ nav{
 #footer a:hover {
   color: white;
 }
+
+.who-text {
+  margin: 2rem;
+  color: white;
+  font-size: 2.5rem;
+  font-family: 'Lexend', sans-serif;
+
+}
+
+.who-header {
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'Lexend', sans-serif;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.who-header-text {
+  text-align: center;
+  margin: 2rem;
+  color: white;
+  font-size: 2.5rem;
+  font-family: 'Lexend', sans-serif;
+}

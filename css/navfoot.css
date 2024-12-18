@@ -1,3 +1,7 @@
+@import url("brands.fontawesome.css");
+@import url("fontawesome.css");
+@import url("solid.fontawesome.css");
+
 nav{
     margin: 0;
     padding: 0;
